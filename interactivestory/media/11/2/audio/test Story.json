@@ -1,0 +1,22 @@
+{
+	"story_id":"2",
+	"name": "First Story",
+	"description": "The is the first story we are creating for test purposes",
+	"author":{
+				"author_id": 2,
+				"name": "John",
+				"lastname": "Milton",
+				"email": "jmilton@milton.com",
+				"website": "https://www.[...]"
+			},
+	"chapters": [
+		{
+			"chapter_id" : "8",
+			"number": 1,
+			"name": "Prologue",
+			"body": "This is the first part of the story. Everything [...]",
+			"image_url": "http://www.avaya.com/blogs/archives/anykey.jpg",
+			"instructions": "Instructions to make the interaction"
+		}
+	]
+}
